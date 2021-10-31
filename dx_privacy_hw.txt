@@ -55,6 +55,9 @@
 收集个人信息类型：设备信息（Android ID/IDFA/OpenUDID/GUID等）
 隐私权政策链接：https://www.umeng.com/page/policy
 
+5.6 SD卡读写
+本应用需要下载网络素材到sd卡的存储空间，在你阅读绘本时会需要读取sd卡相应的内容。
+
 6. Cookie的使用
 
 (a) 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的本应用平台服务或功能。本应用使用cookies可为您提供更加周到的个性化服务，包括推广服务。
